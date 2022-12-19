@@ -1,2 +1,0 @@
-# cyberova
-Cyberova Rover Team
